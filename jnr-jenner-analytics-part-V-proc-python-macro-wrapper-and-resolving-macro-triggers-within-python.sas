@@ -20,6 +20,13 @@ CONTENTS
   3 Proc python macro wrapper
   4 Calling python within a Jenner datastep
 
+STATUS
+https://github.com/rogerjdeangelis/jnr-jenner-analytics-part-I-inline-drop-down-to-duckdb-sql
+https://github.com/rogerjdeangelis/jnr-jenner-analytics-part-II-drop-down-to-open-source-spss-run-regression
+https://github.com/rogerjdeangelis/jnr-jenner-analytics-part-III-inline-drop-down-to-open-source-matlab-summarize-data
+https://github.com/rogerjdeangelis/jnr-jenner-analytics-part-IV-inline-drop-down-to-poweshell-add-column-to-excell-sheet
+https://github.com/rogerjdeangelis/nr-jenner-analytics-part-V-proc-python-macro-wrapper-and-resolving-macro-triggers-within-python
+
 /******************************************************************************************************************/
 /* 1  create input parquet file                                                                                   */
 /******************************************************************************************************************/
